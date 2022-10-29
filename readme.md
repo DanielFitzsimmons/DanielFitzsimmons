@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Fitzsimmons</h1>
-<h3 align="center">A passionate full stack developer from Australia. Daniel Fitzsimmons has worked as a developer since 2002 and has acquired experience working with a large array of clients from Small Australian Companies to large international corporations such as Nestle and Watson Towers. During this time, Daniel has managed teams working on large corporate projects from concepts through to deployment. Daniel's areas of expertise include UX & UI, Relation Databases, Non Relation Databases, API Design, Client-Side, and Server-Side Development.</h3>
+<p align="left">A passionate full stack developer from Australia. Daniel Fitzsimmons has worked as a developer since 2002 and has acquired experience working with a large array of clients from Small Australian Companies to large international corporations such as Nestle and Watson Towers. During this time, Daniel has managed teams working on large corporate projects from concepts through to deployment. Daniel's areas of expertise include UX & UI, Relation Databases, Non Relation Databases, API Design, Client-Side, and Server-Side Development.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
