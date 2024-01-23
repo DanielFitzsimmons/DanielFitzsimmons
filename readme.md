@@ -5,5 +5,7 @@ A passionate full stack developer👨‍💻 & teacher👨‍🏫 from Australia
 [![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow.svg)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![C#](https://img.shields.io/badge/csharp-%23F05033.svg?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username.svg?style=social)](https://github.com/your-username)
+[![Twitter](https://img.shields.io/twitter/follow/your-username.svg?style=flat-square)](https://twitter.com/your-username)
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
